@@ -1,0 +1,6 @@
+*.pyc
+*.log
+settings.json
+.settings
+config.py
+.pydevproject
